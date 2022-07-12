@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Jadavpur University</a>undergraduate and
+      <p>Hi, I&apos;m Mayukhmali.
+        I am a <a href="https://icme.stanford.edu/">Jadavpur University</a> undergraduate and
         the CEO of Faltung Logic Technology
       </p>
       <ul className="actions">
