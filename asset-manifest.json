@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.d4403bfe.css",
+    "main.js": "/personal-site/static/js/main.c84d2d84.js",
+    "static/js/964.ce7cb649.chunk.js": "/personal-site/static/js/964.ce7cb649.chunk.js",
+    "static/js/117.9834294d.chunk.js": "/personal-site/static/js/117.9834294d.chunk.js",
+    "static/js/478.782b3d76.chunk.js": "/personal-site/static/js/478.782b3d76.chunk.js",
+    "static/js/922.fefd4601.chunk.js": "/personal-site/static/js/922.fefd4601.chunk.js",
+    "static/js/161.53759979.chunk.js": "/personal-site/static/js/161.53759979.chunk.js",
+    "static/js/689.a7a54753.chunk.js": "/personal-site/static/js/689.a7a54753.chunk.js",
+    "static/js/191.413b26a4.chunk.js": "/personal-site/static/js/191.413b26a4.chunk.js",
+    "static/js/209.d464d894.chunk.js": "/personal-site/static/js/209.d464d894.chunk.js",
+    "static/js/312.a89dcbe9.chunk.js": "/personal-site/static/js/312.a89dcbe9.chunk.js",
+    "index.html": "/personal-site/index.html",
+    "main.d4403bfe.css.map": "/personal-site/static/css/main.d4403bfe.css.map",
+    "main.c84d2d84.js.map": "/personal-site/static/js/main.c84d2d84.js.map",
+    "964.ce7cb649.chunk.js.map": "/personal-site/static/js/964.ce7cb649.chunk.js.map",
+    "117.9834294d.chunk.js.map": "/personal-site/static/js/117.9834294d.chunk.js.map",
+    "478.782b3d76.chunk.js.map": "/personal-site/static/js/478.782b3d76.chunk.js.map",
+    "922.fefd4601.chunk.js.map": "/personal-site/static/js/922.fefd4601.chunk.js.map",
+    "161.53759979.chunk.js.map": "/personal-site/static/js/161.53759979.chunk.js.map",
+    "689.a7a54753.chunk.js.map": "/personal-site/static/js/689.a7a54753.chunk.js.map",
+    "191.413b26a4.chunk.js.map": "/personal-site/static/js/191.413b26a4.chunk.js.map",
+    "209.d464d894.chunk.js.map": "/personal-site/static/js/209.d464d894.chunk.js.map",
+    "312.a89dcbe9.chunk.js.map": "/personal-site/static/js/312.a89dcbe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4403bfe.css",
+    "static/js/main.c84d2d84.js"
+  ]
+}
