@@ -1,15 +1,15 @@
 // TODO Add a couple lines about each project
+
+
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Recovery of Missing Data in Sensor Networks using Graph Signal Processing',
+    subtitle: '2022 EUSIPCO',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2022-11-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Description: Wireless sensor networks are among the most promising technologies of the current era because of their small size, lower cost, and ease of deployment. With the increasing number of wireless sensors, the probability of generating missing data also rises. This incomplete data could lead to disastrous consequences if used for decision-making. There is rich literature dealing with this problem. However, most approaches show performance degradation when a sizable amount of data is lost. Inspired by the emerging field of graph signal processing, this paper performs a new study of a Sobolev reconstruction algorithm in wireless sensor networks.'
+      + 'Outcome: Experimental comparisons on several publicly available datasets demonstrate that the algorithm surpasses multiple state-of-the-art techniques by a maximum margin of 54 %. We further show that this algorithm consistently retrieves the missing data even during massive data loss situations.'
   },
   {
     title: 'Harvest',
