@@ -3,6 +3,7 @@ import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -32,6 +33,11 @@ const data = [
     link: 'https://twitter.com/DasMayukhmali',
     label: 'Twitter',
     icon: faTwitter,
+  },
+  {
+    link: 'https://angel.co/michael-d-angelo',
+    label: 'Angel List',
+    icon: faAngellist,
   },
   {
     link: 'mailto:mayukhmalidas322@gmail.com',
