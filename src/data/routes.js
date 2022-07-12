@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Mayukhmali Das",
+    label: 'Mayukhmali Das',
     path: '/',
   },
   {
