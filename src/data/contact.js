@@ -28,7 +28,6 @@ const data = [
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-
   {
     link: 'https://twitter.com/DasMayukhmali',
     label: 'Twitter',
