@@ -84,7 +84,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? `mailto:${message}mayukhmalidas322@gmail.com` : ''}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
+        <span>mayukhmalidas322@gmail.com</span>
       </a>
     </div>
   );
