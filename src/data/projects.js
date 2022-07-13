@@ -1,4 +1,3 @@
-// TODO Add a couple lines about each project
 const data = [
   {
     title: 'Recovery of Missing Data in Sensor Networks using Graph Signal Processing',
