@@ -4,7 +4,7 @@
 const skills = [
   {
     title: 'Octave',
-    competency: 5,
+    competency: 4,
     category: ['Electronics', 'Tools'],
   },
   {
@@ -18,7 +18,7 @@ const skills = [
     category: ['Electronics', 'Tools'],
   },
   {
-    title: ' LTspice',
+    title: 'LTspice',
     competency: 5,
     category: ['Electronics', 'Tools'],
   },
@@ -29,7 +29,7 @@ const skills = [
   },
   {
     title: 'Proteus',
-    competency: 5,
+    competency: 4,
     category: ['Electronics', 'Tools'],
   },
   {
@@ -39,12 +39,12 @@ const skills = [
   },
   {
     title: 'DipTrace',
-    competency: 5,
+    competency: 4,
     category: ['Electronics', 'Tools'],
   },
   {
     title: 'Cadence',
-    competency: 5,
+    competency: 4,
     category: ['Electronics', 'Tools'],
   },
   {
@@ -74,7 +74,7 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Python'],
   },
   {
@@ -84,7 +84,7 @@ const skills = [
   },
   {
     title: 'CSS',
-    competency: 4,
+    competency: 3,
     category: ['Web Development'],
   },
   {
@@ -124,7 +124,7 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 5,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
@@ -159,17 +159,17 @@ const skills = [
   },
   {
     title: 'Photoshop',
-    competency: 5,
+    competency: 4,
     category: ['Tools'],
   },
   {
     title: 'Unity',
-    competency: 5,
+    competency: 3,
     category: ['Tools'],
   },
   {
     title: 'Arduino',
-    competency: 5,
+    competency: 4,
     category: ['Tools'],
   },
   {
@@ -179,23 +179,23 @@ const skills = [
   },
   {
     title: 'Solidworks',
-    competency: 5,
+    competency: 3,
     category: ['Tools'],
   },
   {
     title: 'Linux',
-    competency: 5,
+    competency: 4,
     category: ['Tools'],
   },
   {
     title: 'Ansys',
-    competency: 5,
-    category: ['Tools'],
+    competency: 4,
+    category: ['Electronics, Tools'],
   },
   {
     title: 'FEMM',
     competency: 5,
-    category: ['Tools'],
+    category: ['Electronics, Tools'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
