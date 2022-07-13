@@ -3,17 +3,7 @@
 
 const skills = [
   {
-    title: 'Circuitmaker',
-    competency: 5,
-    category: ['Electronics', 'Tools'],
-  },
-  {
     title: 'Octave',
-    competency: 5,
-    category: ['Electronics', 'Tools'],
-  },
-  {
-    title: 'Circuitmaker',
     competency: 5,
     category: ['Electronics', 'Tools'],
   },
@@ -143,11 +133,6 @@ const skills = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Pandas',
-    competency: 5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
     title: 'Matplotlib',
     competency: 3,
     category: ['Data Engineering', 'Data Science', 'Python'],
@@ -164,11 +149,6 @@ const skills = [
   },
   {
     title: 'Spacy',
-    competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'HuggingFace',
     competency: 4,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
