@@ -20,8 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Mayukhmali.
-        I am a <a href="https://icme.stanford.edu/">Jadavpur University</a> undergraduate and
-        the CEO of Faltung Logic Technology
+        I am a <a href="https://icme.stanford.edu/">Jadavpur University</a> undergraduate
       </p>
       <ul className="actions">
         <li>
