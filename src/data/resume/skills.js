@@ -53,16 +53,6 @@ const skills = [
     category: ['Electronics', 'Tools'],
   },
   {
-    title: 'PSIM',
-    competency: 5,
-    category: ['Electronics', 'Tools'],
-  },
-  {
-    title: 'Multisim',
-    competency: 5,
-    category: ['Electronics', 'Tools'],
-  },
-  {
     title: 'Verilog',
     competency: 5,
     category: ['Languages'],
@@ -169,11 +159,6 @@ const skills = [
   },
   {
     title: 'Photoshop',
-    competency: 5,
-    category: ['Tools'],
-  },
-  {
-    title: 'Unity',
     competency: 5,
     category: ['Tools'],
   },
