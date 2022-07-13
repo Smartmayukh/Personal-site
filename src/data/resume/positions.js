@@ -37,7 +37,7 @@ const positions = [
     points: [
       'Started working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
       'This research project mainly focuses on designing a customized RC boat that can do underwater mapping using a Lidar. The design will be such that it will not obstruct the Lidar’s line of sight and prevent any noise in the captured data. We are currently in the construction process of the boat. After construction, we will use this boat for underwater mapping. Our next goal is to make the entire setup autonomous.',
-      'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran', 
+      'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran',
     ],
   },
   {
