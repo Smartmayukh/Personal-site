@@ -3,10 +3,10 @@ const data = [
   {
     title: 'Recovery of Missing Data in Sensor Networks using Graph Signal Processing',
     subtitle: '2022 EUSIPCO',
-    image: '/images/projects/project3.jpg',
-    date: '2022-11-20',
+    image: '/images/projects/project1.jpg',
+    date: '2022-07-15',
     desc:
-    'Experimental comparisons on several publicly available datasets demonstrate that our proposed algorithm surpasses multiple state-of-the-art techniques by a maximum margin of 54 %. We further show that this algorithm consistently retrieves the missing data even during massive data loss situations.',
+    'With the increasing number of wireless sensors, the probability of generating missing data also rises. This incomplete data could lead to disastrous consequences if used for decision-making. Inspired by the emerging field of graph signal processing, this paper performs a new study of a Sobolev reconstruction algorithm in wireless sensor networks. ',
   },
 
 ];
