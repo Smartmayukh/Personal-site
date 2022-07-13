@@ -2,7 +2,7 @@
 // Data Engineering, Data Science, ML Engineering, ... ?
 
 const skills = [
-   {
+  {
     title: 'Verilog',
     competency: 5,
     category: ['Languages'],
