@@ -5,7 +5,72 @@ const skills = [
   {
     title: 'Circuitmaker',
     competency: 5,
-    category: ['Electronics'. 'Tools'],
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Octave',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Circuitmaker',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Circuitmaker',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Altium',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: ' LTspice',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Multisim',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Proteus',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'PSIM',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'DipTrace',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Cadence',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Tanner',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'PSIM',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
+  },
+  {
+    title: 'Multisim',
+    competency: 5,
+    category: ['Electronics', 'Tools'],
   },
   {
     title: 'Verilog',
