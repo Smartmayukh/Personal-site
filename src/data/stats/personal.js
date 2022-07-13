@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1990-02-05T09:24:00');
+    const birthTime = new Date('2001-02-05T08:00:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -27,14 +27,14 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: 2,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      'https://www.google.com/maps/d/edit?mid=1Oqd40iBr8wP7vv9E3NppQF8DWpDRTjw&usp=sharing',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Kolkata, India',
   },
 ];
 
