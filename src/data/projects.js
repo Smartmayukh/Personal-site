@@ -6,9 +6,32 @@ const data = [
     image: '/images/projects/project1.jpg',
     date: '2022-07-15',
     desc:
-    'With the increasing number of wireless sensors, the probability of generating missing data also rises. This incomplete data could lead to disastrous consequences if used for decision-making. Inspired by the emerging field of graph signal processing, this paper performs a new study of a Sobolev reconstruction algorithm in wireless sensor networks. ',
+    'EUSIPCO 2022',
   },
-
+  {
+    title: 'Reinforced Swarm Optimization Algorithm',
+    subtitle: '2021 EUROCON',
+    image: '/images/projects/project1.jpg',
+    date: '2021-09-15',
+    desc:
+    'EUROCON 2021',
+  },
+  {
+    title: 'Moving Object Detection for Event-based Vision',
+    subtitle: '2022 UPCON',
+    image: '/images/projects/project1.jpg',
+    date: '2021-12-15',
+    desc:
+    'UPCON 2022',
+  },
+  {
+    title: 'Monocular Depth Estimation',
+    subtitle: '2021 UPCON',
+    image: '/images/projects/project1.jpg',
+    date: '2021-03-15',
+    desc:
+    'UPCON 2021',
+  },
 ];
 
 export default data;
