@@ -40,5 +40,14 @@ const positions = [
       'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran', 
     ],
   },
+  {
+    company: 'Electromagnetic Energy Harvesting',
+    position: 'IIT Kharagpur',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'June 2022 - Present',
+    points: [
+      'Working on Electromagnetic Energy Harvesting in vehicles',
+    ],
+  },
 ];
 export default positions;
