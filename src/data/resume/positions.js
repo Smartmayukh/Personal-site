@@ -16,7 +16,7 @@ const positions = [
     daterange: 'December 2020 - Present',
     points: [
       'Working on RF Energy Harvesting under the supervision of Professor Sudipta Chattopadhyay and guidance of Chandrima Thakur',
-      'Worked on various relaying protocols like TSR, PSR. Current works involve designing a modified state-of-the-art Solar-RF Harvesting System; application of relaying protocols and Solar-RF Energy harvesting on UAVs , sensors etc and using SBSP ( Space-Based Solar Power ) for RF Energy Harvesting.',
+      'Worked on various relaying protocols like TSR, PSR. Current works involve designing a modified state-of-the-art Solar-RF Harvesting System; application of relaying protocols and Solar-RF Energy harvesting on UAVs , sensors etc and using SBSP ( Space-Based Solar Power ) for RF Energy Harvesting',
       'Working on designing Low Noise Amplifiers and high speed ADC in Cadence',
     ],
   },
@@ -35,8 +35,8 @@ const positions = [
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2021 - Present',
     points: [
-      'Started working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
-      'This research project mainly focuses on designing a customized RC boat that can do underwater mapping using a Lidar. The design will be such that it will not obstruct the Lidar’s line of sight and prevent any noise in the captured data. We are currently in the construction process of the boat. After construction, we will use this boat for underwater mapping. Our next goal is to make the entire setup autonomous.',
+      'Working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
+      'This research project mainly focuses on designing a customized RC boat that can do underwater mapping using a Lidar',
       'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran',
     ],
   },
