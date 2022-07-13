@@ -11,7 +11,7 @@ const data = [
   {
     title: 'Reinforced Swarm Optimization Algorithm',
     subtitle: '2021 EUROCON',
-    image: '/images/projects/project2.jpg',
+    image: '/images/projects/project2.JPG',
     date: '2021-09-15',
     desc:
     'EUROCON 2021',
@@ -19,7 +19,7 @@ const data = [
   {
     title: 'Moving Object Detection for Event-based Vision',
     subtitle: '2022 UPCON',
-    image: '/images/projects/project3.jpg',
+    image: '/images/projects/project3.JPG',
     date: '2021-12-15',
     desc:
     'UPCON 2022',
@@ -27,7 +27,7 @@ const data = [
   {
     title: 'Monocular Depth Estimation',
     subtitle: '2021 UPCON',
-    image: '/images/projects/project4.jpg',
+    image: '/images/projects/project4.JPG',
     date: '2021-03-15',
     desc:
     'UPCON 2021',
