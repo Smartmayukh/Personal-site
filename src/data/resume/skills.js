@@ -3,6 +3,11 @@
 
 const skills = [
   {
+    title: 'Circuitmaker',
+    competency: 5,
+    category: ['Electronics'. 'Tools'],
+  },
+  {
     title: 'Verilog',
     competency: 5,
     category: ['Languages'],
