@@ -20,5 +20,25 @@ const positions = [
       'Working on designing Low Noise Amplifiers and high speed ADC in Cadence',
     ],
   },
+  {
+    company: 'Wireless Communication',
+    position: 'Communication Lab, Jadavpur University',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'December 2021 - Present',
+    points: [
+      'Started working on designing communication systems like OFDM using FPGA based design under Professor Iti Saha Misra',
+    ],
+  },
+  {
+    company: 'Embedded System and Sensor Networks',
+    position: 'Texas Instruments Lab, Jadavpur University',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'December 2021 - Present',
+    points: [
+      'Started working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
+      'This research project mainly focuses on designing a customized RC boat that can do underwater mapping using a Lidar. The design will be such that it will not obstruct the Lidar’s line of sight and prevent any noise in the captured data. We are currently in the construction process of the boat. After construction, we will use this boat for underwater mapping. Our next goal is to make the entire setup autonomous.',
+      'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran', 
+    ],
+  },
 ];
 export default positions;
