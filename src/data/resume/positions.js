@@ -43,7 +43,7 @@ const positions = [
   {
     company: 'Electromagnetic Energy Harvesting',
     position: 'IIT Kharagpur',
-    link: 'http://www.jaduniv.edu.in/',
+    link: 'http://iitkgp.ac.in/',
     daterange: 'June 2022 - Present',
     points: [
       'Working on Electromagnetic Energy Harvesting in vehicles',
