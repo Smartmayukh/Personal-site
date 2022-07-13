@@ -191,12 +191,12 @@ const skills = [
     title: 'Photoshop',
     competency: 5,
     category: ['Tools'],
-  }, 
+  },
   {
     title: 'Unity',
     competency: 5,
     category: ['Tools'],
-  }, 
+  },
   {
     title: 'Unity',
     competency: 5,
