@@ -166,7 +166,7 @@ const courses = [
     number: 'B/S/313',
     link: 'http://www.jaduniv.edu.in/',
     university: 'Jadavpur',
-  },  
+  },
 ];
 
 export default courses;
