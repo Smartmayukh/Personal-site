@@ -44,7 +44,7 @@ At the moment, I feel more enthusiastic working in an interdisciplinary fashion.
 - First prize in Circuistics ( A Circuits Design Hackathon ) and Aboltabol 2.0 ( A competition where we had to propose new
 research ideas ) and Second prize in Spark Hack ( Hackathon for Innovation ) – all of the above were organized by the
 Electrical Engineering Department, Jadavpur University. I also received the Second prize in Electroniche, a technology quiz
-event organized in the Jadavpur University Techfest - Srijan .
+event organized in the Jadavpur University Techfest Srijan .
 - Finalist in AirBus Day Innovation Challenge, a hackathon where we had to present Bio-inspired ideas suitable for the
 aviation industry
 - Designed a) a Radio Controlled Plane, b) all-terrain bot and c) a car with a Hydraulic arm for lifting weights for IIT
