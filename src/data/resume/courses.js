@@ -113,6 +113,60 @@ const courses = [
     link: 'http://www.jaduniv.edu.in/',
     university: 'Jadavpur',
   },
+  {
+    title: 'Microprocessors and Microcontrollers',
+    number: 'B/T/311',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Control Engineering',
+    number: 'B/T/312',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Communication Systems',
+    number: 'B/T/313',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Antennas and Propagation',
+    number: 'B/T/314',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Computer Organization and Architecture',
+    number: 'B/T/315',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Analog CMOS Design and Technology',
+    number: 'B/T/316',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Microprocessors and Microcontrollers Lab',
+    number: 'B/S/311',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Control Engineering Lab',
+    number: 'B/S/312',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Communication Lab',
+    number: 'B/S/313',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },  
 ];
 
 export default courses;
