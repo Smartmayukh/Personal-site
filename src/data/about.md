@@ -93,14 +93,14 @@ Travelling the open world is what gives me most about of joy. A vacation of thre
 
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg" height="230" width="300"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/178913464-c11709ef-d8fa-417d-92b3-28ca52294362.jpg" height="230" width="300" />
-  <img src="https://user-images.githubusercontent.com/64318469/178913381-b4658804-1b46-4844-ad77-0483df3d801a.jpg" height="230" width="300" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg" height="210" width="260"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/178913464-c11709ef-d8fa-417d-92b3-28ca52294362.jpg" height="210" width="260" />
+  <img src="https://user-images.githubusercontent.com/64318469/178913381-b4658804-1b46-4844-ad77-0483df3d801a.jpg" height="210" width="260" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64318469/178922103-e68acdd6-d13d-4af7-a0ef-064f46a689bb.jpg" width="300" />
-  <img alig src="https://user-images.githubusercontent.com/64318469/178922456-1123eb47-ea12-4eb5-9fde-fa232a2b887f.jpg"  width="300"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/178922186-35796d3f-bac7-4148-99e9-5fa7121be6d1.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/64318469/178922103-e68acdd6-d13d-4af7-a0ef-064f46a689bb.jpg" width="260" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/178922456-1123eb47-ea12-4eb5-9fde-fa232a2b887f.jpg"  width="260"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/178922186-35796d3f-bac7-4148-99e9-5fa7121be6d1.jpg" width="260" />
 </p>
 
 
