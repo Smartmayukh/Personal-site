@@ -15,13 +15,11 @@ I still remember the first circuit I designed was  a full wave rectifier using d
 Thus at a very young age old I came across Mosfets and BJTs. 
 
 I wanted to learn more. I wanted to decode the secrets of how things like the computer, the electric fan etc work. All this interest led me on the path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in both of those fields. 
-<br/>
-<br/>
+
 ### Research in Artificial Intelligence :   
 
 My first research work in AI was in my second year with some of my college seniors. We worked in Monocular Depth Estimation , generating Stereo images from Monocular Images and novel algorithms for depth estimation from stereo images. At this point of time, I was getting accustomed to Deep Learning and started studying NLP side by side with Computer Vision. I worked in Sentiment Analysis, Aspect Analysis and Unsupervised Text Classification. Now; previously I had a biology background in my high school. I also got selected for a Government Medical College. All this helped me to get an internship in Computational Biology in Carnegie Mellon University nearly midway through my second year. I am working on Covid 19 Cryo-ET data analysis. It is an extremely enriching experience. Following this journey ; in my third year, I started exploring various Neuromorphic architectures like Spiking Neural Networks and others. One such neuromorphic device called Event camera caught my attention. I started working on moving object detection in Event based vision and my paper on application of  k means clustering on Event based data got accepted in a conference. As I dived deeper in clustering, I started studying Graph Neural Networks and thus towards the mid of my third year, I undertook a work in disease prediction from Retinal Imaging where I used Graph Neural Networks.
-<br/>
-<br/>
+
 ### Research in Electronics :
 
 <!---<p align="center">
@@ -46,17 +44,15 @@ As my final yearof college drew near I started working on wireless communication
 
 
 Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
-<br/>
-<br/>
+
 ### Future Goals :
-<br/>
+
 At the moment, I feel more enthusiastic working in an interdisciplinary fashion. I feel that I can achieve my true potential when both of my skill sets in the two domains of Electronics and Artificial Intelligence constructively superimpose and amplify each other.  I am determined to pursue a research career in  Electronics and Artificial Intelligence with the goal of applying for permanent positions in academic or industrial labs. As time goes on there is more and more incorporation of Artificial Intelligence in our everyday tech devices and thereby having a major impact on our lives. So it will be a great achievement for me if I am able to contribute to this new  ever growing field of technology. 
 
-<br/>
-<br/>
 
-# Some of my Achievements and activities
-<br/>
+
+## Some of my Achievements and activities
+
 - State Rank 16th with the percentage of 96.4 in Class 10 and State Rank 6th with the percentage of 98 in Class 12
 -  Recipient of Swami Vivekananda Merit-cum-Means Scholarship for a span of 4 years ( 2019 - 2023 )
 -  State Rank 1 in RKM Chemistry Entrance Exam and State Rank 4 in RKM Physics Entrance Exam
@@ -78,31 +74,21 @@ more than 10 thousand views
 <br/>
 
 # My hobbies
-<br/>
 
 - Guitar
-<br/>
 - Gym
-<br/>
 - Karate
-<br/>
 - Muay Thai
-<br/>
 - Boxing
-<br/>
 - MMA
-<br/>
 - Basketball
-<br/>
 - Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
 
 <br/>
-<br/>
 
 # Travel
-<br/>
 Travelling the open world is what gives me most about of joy. A vacation of three four days is enough for restarting the brain engine back again
-
+<br/>
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg" height="210" width="260"/>  
