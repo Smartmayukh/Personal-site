@@ -2,52 +2,52 @@ const skills = [
   {
     title: 'Octave',
     competency: 4,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Circuitmaker',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Altium',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'LTspice',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Multisim',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Proteus',
     competency: 4,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'PSIM',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'DipTrace',
     competency: 4,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Cadence',
     competency: 4,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Tanner',
     competency: 5,
-    category: ['Electronics', 'Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'Verilog',
@@ -72,7 +72,7 @@ const skills = [
   {
     title: 'Python',
     competency: 4,
-    category: ['Languages', 'Python'],
+    category: ['Languages'],
   },
   {
     title: 'HTML',
@@ -92,62 +92,62 @@ const skills = [
   {
     title: 'SQL',
     competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
+    category: ['Web Development', 'Databases'],
   },
   {
     title: 'Numpy',
     competency: 5,
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Pandas',
     competency: 5,
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Tensorflow + Keras',
     competency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Pytorch',
     competency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Jupyter',
     competency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Matplotlib',
     competency: 5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'OpenCV',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Scikit-Learn',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Spacy',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'HuggingFace',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Seaborn',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science'],
   },
   {
     title: 'Git',
@@ -167,7 +167,7 @@ const skills = [
   {
     title: 'Arduino',
     competency: 4,
-    category: ['Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'LaTex',
@@ -187,12 +187,12 @@ const skills = [
   {
     title: 'Ansys',
     competency: 4,
-    category: ['Electronics, Tools'],
+    category: ['Electronics'],
   },
   {
     title: 'FEMM',
     competency: 5,
-    category: ['Electronics, Tools'],
+    category: ['Electronics'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
