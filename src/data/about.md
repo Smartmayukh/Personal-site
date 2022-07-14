@@ -49,14 +49,14 @@ Last but not the least I have also started working on designing wireless communi
 <br/>
 <br/>
 ### Future Goals :
-
+<br/>
 At the moment, I feel more enthusiastic working in an interdisciplinary fashion. I feel that I can achieve my true potential when both of my skill sets in the two domains of Electronics and Artificial Intelligence constructively superimpose and amplify each other.  I am determined to pursue a research career in  Electronics and Artificial Intelligence with the goal of applying for permanent positions in academic or industrial labs. As time goes on there is more and more incorporation of Artificial Intelligence in our everyday tech devices and thereby having a major impact on our lives. So it will be a great achievement for me if I am able to contribute to this new  ever growing field of technology. 
 
 <br/>
 <br/>
 
 # Some of my Achievements and activities
-
+<br/>
 - State Rank 16th with the percentage of 96.4 in Class 10 and State Rank 6th with the percentage of 98 in Class 12
 -  Recipient of Swami Vivekananda Merit-cum-Means Scholarship for a span of 4 years ( 2019 - 2023 )
 -  State Rank 1 in RKM Chemistry Entrance Exam and State Rank 4 in RKM Physics Entrance Exam
@@ -78,7 +78,7 @@ more than 10 thousand views
 <br/>
 
 # My hobbies
-
+<br/>
 - Guitar
 - Gym
 - Karate
@@ -92,7 +92,7 @@ more than 10 thousand views
 <br/>
 
 # Travel
-
+<br/>
 Travelling the open world is what gives me most about of joy. A vacation of three four days is enough for restarting the brain engine back again
 
 
