@@ -221,6 +221,72 @@ const courses = [
     link: 'http://www.jaduniv.edu.in/',
     university: 'Jadavpur',
   },
+  {
+    title: 'Mathematics I',
+    number: 'BS/MTH/T111',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Mathematics II ',
+    number: 'BS/MTH/T22',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'CHEMISTRY',
+    number: 'BS/CH/TP103',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Physics',
+    number: 'BS/PH/TP104',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Basic Electrical Engineering',
+    number: 'ES/EE/T101A',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Basic Electronics',
+    number: 'ES/ BE/T102B',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Engineering Mechanics',
+    number: 'ES/EM/T103A',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Computer Programming & Numerical Method',
+    number: 'ES/CM/TP104A',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Electrical & Electronics Laboratory',
+    number: 'ES/EL/P105B',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Engineering Drawing',
+    number: 'ES/ED/P106',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Workshop',
+    number: 'ES/WS/P107A',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
 ];
 
 export default courses;
