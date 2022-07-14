@@ -69,7 +69,7 @@ more than 10 thousand views
 <br/>
 
 # Travel
-Travelling the open world is what gives me most about of joy. A vacation of three four days is enough for restarting the brain engine back again
+Travelling the open world is what gives me the most amount of joy. A vacation of three-four days is enough for restarting the brain engine back again
 <br/>
 
 <p align="center">
