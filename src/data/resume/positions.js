@@ -69,7 +69,7 @@ const positions = [
       'Worked on detection of moving object in event-based vision using graph-based methods',
     ],
   },
-   {
+  {
     company: 'Natural Language Processing',
     position: 'Alpha Lab',
     link: 'http://www.jaduniv.edu.in/',
