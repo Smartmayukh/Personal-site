@@ -48,11 +48,12 @@ As my final yearof college drew near I started working on wireless communication
 Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
 <br/>
 <br/>
-
 ### Future Goals :
 
 At the moment, I feel more enthusiastic working in an interdisciplinary fashion. I feel that I can achieve my true potential when both of my skill sets in the two domains of Electronics and Artificial Intelligence constructively superimpose and amplify each other.  I am determined to pursue a research career in  Electronics and Artificial Intelligence with the goal of applying for permanent positions in academic or industrial labs. As time goes on there is more and more incorporation of Artificial Intelligence in our everyday tech devices and thereby having a major impact on our lives. So it will be a great achievement for me if I am able to contribute to this new  ever growing field of technology. 
 
+<br/>
+<br/>
 
 # Some of my Achievements and activities
 
@@ -73,7 +74,8 @@ aviation industry
 Kharagpur. Did multiple personal projects using Arduino some of which are cataloged in my blogs at Hackster.io which has
 more than 10 thousand views
 
-
+<br/>
+<br/>
 
 # My hobbies
 
@@ -86,6 +88,8 @@ more than 10 thousand views
 - Basketball
 - Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
 
+<br/>
+<br/>
 
 # Travel
 
