@@ -28,6 +28,12 @@ My first research work in AI was in my second year with some of my college senio
 <br/>
 ### Research in Electronics :   
 
+<p align="center">
+  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="240"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="240" />
+  <img src="https://user-images.githubusercontent.com/64318469/176824387-e836927b-fe30-4523-90b0-d1bc0c0d7daa.gif" width="240" />
+    <img src="https://user-images.githubusercontent.com/64318469/176825486-1982d256-d525-45fa-aeea-66d4cb7a7bc8.gif" width="240" />
+</p>
 My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building an autonomous wheelchair which has inbuilt Solar- RF Hybrid Energy Harvesting and a complex sensor system which uses AI for depth mapping and obstacle avoidance. The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work is mainly focused on deploying Neural Networks and DNN Accelerator  using FPGAs and developing Spiking Neural Networks. Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
 <br/>
 <br/>
