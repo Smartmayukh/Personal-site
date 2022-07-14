@@ -15,7 +15,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A selection of publications that I&apos;m not too ashamed of</p>
+          <p>Some of my publications</p>
         </div>
       </header>
       {data.map((project) => (
