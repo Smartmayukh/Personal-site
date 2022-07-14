@@ -79,13 +79,21 @@ more than 10 thousand views
 
 # My hobbies
 <br/>
+
 - Guitar
+<br/>
 - Gym
+<br/>
 - Karate
+<br/>
 - Muay Thai
+<br/>
 - Boxing
+<br/>
 - MMA
+<br/>
 - Basketball
+<br/>
 - Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
 
 <br/>
