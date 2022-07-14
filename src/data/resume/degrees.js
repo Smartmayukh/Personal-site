@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Jadavpur University',
-    degree: 'B.E. Electronics and Telecommunications Engineering',
+    degree: 'B.E. Electronics and Telecommunications Engineering (CGPA 9.34)',
     link: 'http://www.jaduniv.edu.in/',
     year: 2023,
   },
