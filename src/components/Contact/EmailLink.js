@@ -20,7 +20,7 @@ const messages = [
   'but not this :(  ',
   'just kidding',
   'here is my email',
-  'mayukhmalidas322'
+  'mayukhmalidas322',
 ];
 
 const useInterval = (callback, delay) => {
