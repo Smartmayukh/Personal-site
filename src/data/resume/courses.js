@@ -167,6 +167,60 @@ const courses = [
     link: 'http://www.jaduniv.edu.in/',
     university: 'Jadavpur',
   },
+  {
+    title: 'Digital Signal Processing',
+    number: 'B/T/321',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Switching and Computer Networks',
+    number: 'B/T/322',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Control Systems',
+    number: 'B/T/323',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Operating System',
+    number: 'H/T/324',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Embedded Systems',
+    number: 'H/T/325',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'IC Design Lab',
+    number: 'B/S/321',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Signal Processing Lab',
+    number: 'B/S/322',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Communication Networks Lab',
+    number: 'B/S/323',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  },
+  {
+    title: 'Digital Control Lab',
+    number: 'B/S/324',
+    link: 'http://www.jaduniv.edu.in/',
+    university: 'Jadavpur',
+  }, 
 ];
 
 export default courses;
