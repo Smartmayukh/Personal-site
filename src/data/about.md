@@ -16,20 +16,16 @@ Thus at a very young age old I came across Mosfets and BJTs.
 
 I wanted to learn more. I wanted to decode the secrets of how things like the computer, the electric fan etc work. All this interest led me on the path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in both of those fields. 
 
+
 ### Research in Artificial Intelligence :   
 
 My first research work in AI was in my second year with some of my college seniors. We worked in Monocular Depth Estimation , generating Stereo images from Monocular Images and novel algorithms for depth estimation from stereo images. At this point of time, I was getting accustomed to Deep Learning and started studying NLP side by side with Computer Vision. I worked in Sentiment Analysis, Aspect Analysis and Unsupervised Text Classification. Now; previously I had a biology background in my high school. I also got selected for a Government Medical College. All this helped me to get an internship in Computational Biology in Carnegie Mellon University nearly midway through my second year. I am working on Covid 19 Cryo-ET data analysis. It is an extremely enriching experience. Following this journey ; in my third year, I started exploring various Neuromorphic architectures like Spiking Neural Networks and others. One such neuromorphic device called Event camera caught my attention. I started working on moving object detection in Event based vision and my paper on application of  k means clustering on Event based data got accepted in a conference. As I dived deeper in clustering, I started studying Graph Neural Networks and thus towards the mid of my third year, I undertook a work in disease prediction from Retinal Imaging where I used Graph Neural Networks.
 
+
 ### Research in Electronics :
 
-<!---<p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="200"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/64318469/176824387-e836927b-fe30-4523-90b0-d1bc0c0d7daa.gif" width="200" />
-    <img src="https://user-images.githubusercontent.com/64318469/176825486-1982d256-d525-45fa-aeea-66d4cb7a7bc8.gif" width="200" />
-</p>--->
-
 My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building a novel hybrid - complementary Solar- RF Hybrid Energy Harvesting system. The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work was mainly focused on deploying Neural Networks and DNN Accelerator using FPGAs. I was also developing Spiking Neural Networks. As my final yearof college drew near I started working on wireless communication specifically ofdm. My specific focus was ofdm channel estimation using neural networks and desiging a complete wireless communication system using FPGAs. Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
+
 
 ### Future Goals :
 
