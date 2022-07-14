@@ -26,7 +26,7 @@ I still remember the first circuit I designed was  a full wave rectifier using d
 
 Thus at a very young age old I came across Mosfets and BJTs. 
 
-I wanted to learn more. All this interest led me on my path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in both of those fields. 
+I wanted to learn more. I wanted to decode the secrets of how things like the computer, the electric fan etc work. All this interest led me on the path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in both of those fields. 
 <br/>
 <br/>
 ### Research in Artificial Intelligence :   
