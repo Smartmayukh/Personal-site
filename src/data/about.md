@@ -89,11 +89,10 @@ more than 10 thousand views
 
 # Travel
 
-Travelling is one of my favourite stress relievers. A vacation of three four days is ideal for restarting the brain engine back again
+Travelling the open world is what gives me most about of joy. A vacation of three four days is enough for restarting the brain engine back again
 
-Here are some of my travel pics
 
-<p align="left">
+<p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg" height="230" width="300"/>  
   <img src="https://user-images.githubusercontent.com/64318469/178913464-c11709ef-d8fa-417d-92b3-28ca52294362.jpg" height="230" width="300" />
   <img src="https://user-images.githubusercontent.com/64318469/178913381-b4658804-1b46-4844-ad77-0483df3d801a.jpg" height="230" width="300" />
