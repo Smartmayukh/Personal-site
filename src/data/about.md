@@ -53,7 +53,8 @@ more than 10 thousand views
 # Travel
 Travelling the open world is what gives me the most amount of joy. A vacation is all I need to restart the brain engine back again
 <br/>
-
+<br/>
+<br/>
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg" height="210" width="260"/>  
   <img src="https://user-images.githubusercontent.com/64318469/178913464-c11709ef-d8fa-417d-92b3-28ca52294362.jpg" height="210" width="260" />
