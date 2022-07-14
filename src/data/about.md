@@ -29,21 +29,7 @@ My first research work in AI was in my second year with some of my college senio
     <img src="https://user-images.githubusercontent.com/64318469/176825486-1982d256-d525-45fa-aeea-66d4cb7a7bc8.gif" width="200" />
 </p>--->
 
-My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building a novel hybrid - complementary Solar- RF Hybrid Energy Harvesting system.
-
-The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. 
-
-
-It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work was mainly focused on deploying Neural Networks and DNN Accelerator using FPGAs. I was also developing Spiking Neural Networks.
-
-
-As my final yearof college drew near I started working on wireless communication specifically ofdm. My specific focus was ofdm channel estimation using neural networks and desiging a complete wireless communication system using FPGAs.
-
-
-
-
-
-Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
+My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building a novel hybrid - complementary Solar- RF Hybrid Energy Harvesting system. The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work was mainly focused on deploying Neural Networks and DNN Accelerator using FPGAs. I was also developing Spiking Neural Networks. As my final yearof college drew near I started working on wireless communication specifically ofdm. My specific focus was ofdm channel estimation using neural networks and desiging a complete wireless communication system using FPGAs. Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
 
 ### Future Goals :
 
