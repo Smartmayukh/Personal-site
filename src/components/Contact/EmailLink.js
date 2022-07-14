@@ -18,13 +18,9 @@ const messages = [
   'like-this',
   'or-this',
   'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+  'just kidding',
+  'here is my email',
+  'mayukhmalidas322'
 ];
 
 const useInterval = (callback, delay) => {
