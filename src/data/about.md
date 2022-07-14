@@ -48,7 +48,7 @@ more than 10 thousand views
 - Boxing
 - MMA
 - Basketball
-- Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
+- Podcasts (Joe Rogan, The Daily Stoic, Lex Fridman, Jordan B. Peterson, Ben Shapiro)
 
 # Travel
 Travelling the open world is what gives me the most amount of joy. A vacation is all I need to restart the brain engine back again
