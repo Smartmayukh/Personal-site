@@ -18,7 +18,15 @@ Hello, I am Mayukhmali Das. I am currently in my final year pursuing my B.E. deg
 
 # How I developed my research interest
 
-I had a deep interest in Electronics while growing up. From about 10 years old I used to make circuits using Mosfets and BJTs. That interest led me on my path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in this field. 
+I had a deep interest in Electronics while growing up. 
+
+When I was 9 years old I had a home tutor who also was an engineer at that time. He used to bring me various diodes, breadboards etc and used to teach me how to design ciruits.
+
+I still remember the first circuit I designed was  a full wave rectifier using diodes. My tutor hyped me up saying that the circuit I designed could charge a phone but as we all know that it is but a small part of a charging system. 
+
+Thus at a very young age old I came across Mosfets and BJTs. 
+
+I wanted to learn more. All this interest led me on my path to pursue my Bachelor’s of Engineering Degree in Electronics and Telecommunications. While studying in college, I also developed a keen interest and appreciation for Deep learning and Artificial Intelligence. I am very much grateful to get ample research opportunities in both of those fields. 
 <br/>
 <br/>
 ### Research in Artificial Intelligence :   
@@ -34,7 +42,22 @@ My first research work in AI was in my second year with some of my college senio
   <img src="https://user-images.githubusercontent.com/64318469/176824387-e836927b-fe30-4523-90b0-d1bc0c0d7daa.gif" width="240" />
     <img src="https://user-images.githubusercontent.com/64318469/176825486-1982d256-d525-45fa-aeea-66d4cb7a7bc8.gif" width="240" />
 </p>
-My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building an autonomous wheelchair which has inbuilt Solar- RF Hybrid Energy Harvesting and a complex sensor system which uses AI for depth mapping and obstacle avoidance. The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work is mainly focused on deploying Neural Networks and DNN Accelerator  using FPGAs and developing Spiking Neural Networks. Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
+
+My research in Electronics started in my second year of college. One of my college professors gave me the opportunity to  work on RF Energy Harvesting circuits and relaying protocols. Currently we are building a novel hybrid - complementary Solar- RF Hybrid Energy Harvesting system.
+
+The next research work was in my third year which dealt with LIDARS. I undertook this work right after my research paper on “ Monocular Depth Estimation “ was published. Building on the foundation in monocular and stereo depth estimation, I was able to design a semi-autonomous boat which mapped the depth of  water bodies using Bathymetric Lidars. 
+
+
+It was around this same time that I started studying FPGAs , CPLAs , ASICs, and Memristor Crossbar Arrays. So my next work was mainly focused on deploying Neural Networks and DNN Accelerator using FPGAs. I was also developing Spiking Neural Networks.
+
+
+As my final yearof college drew near I started working on wireless communication specifically ofdm. My specific focus was ofdm channel estimation using neural networks and desiging a complete wireless communication system using FPGAs.
+
+
+
+
+
+Last but not the least I have also started working on designing wireless communication systems using FPGAs ; and  Anomaly Detection in Wireless Sensor Networks. Besides research related work , I have participated in numerous techfest across my country where I designed RC planes , Arduino controlled Sand rovers, Hydraulic Arm bearing RC cars and Soccer playing bots.
 <br/>
 <br/>
 
