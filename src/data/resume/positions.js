@@ -11,7 +11,7 @@ const positions = [
   },
   {
     company: 'RF Energy Harvesting and RF Circuit Design',
-    position: 'Digital Signal Processing Lab, Jadavpur University',
+    position: 'DSP Lab, Jadavpur University',
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2020 - Present',
     points: [
@@ -26,7 +26,7 @@ const positions = [
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2021 - Present',
     points: [
-      'Started working on designing communication systems like OFDM using FPGA based design under Professor Iti Saha Misra',
+      'Working on designing communication systems like OFDM using FPGA based design under Professor Iti Saha Misra',
     ],
   },
   {
@@ -42,11 +42,41 @@ const positions = [
   },
   {
     company: 'Electromagnetic Energy Harvesting',
-    position: 'IIT Kharagpur',
+    position: 'Advanced Technology Development Centre, IIT Kharagpur',
     link: 'http://iitkgp.ac.in/',
     daterange: 'June 2022 - Present',
     points: [
       'Working on Electromagnetic Energy Harvesting in vehicles',
+    ],
+  },
+  {
+    company: 'Computational Biology and Deep Learning',
+    position: 'Carnegie Mellon University, Pittsburgh, United States',
+    link: 'https://www.cmu.edu/',
+    daterange: 'March 2021 - Present',
+    points: [
+      'Worked in XU Lab under Professor Min Xu . The topic which I worked on was COVID-19 Cryo-ET data analysis',
+      'Worked on tasks like PDB to MRC file conversion using EMAN2 and AITom. Compared the results of such files. I have also worked on template matching. Trained semi-supervised and supervised models on the data',
+    ],
+  },
+  {
+    company: 'Computer Vision and Artificial Intelligence',
+    position: 'CMATER Lab',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'December 2020 - Present',
+    points: [
+      'Worked on Monocular Depth Estimation',
+      'Worked on detection of moving object in event-based vision using graph-based methods',
+    ],
+  },
+   {
+    company: 'Natural Language Processing',
+    position: 'Alpha Lab',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'December 2020 - Present',
+    points: [
+      'Working on Natural Language Processing under the supervision of Dr. Sudip Kumar Naskar',
+      'Topics of research include Sentiment Analysis in Regional Languages and Aspect analysis. Worked with various transformer models like Bert , XLNet and their modifications . Current research papers are mainly focused on new and modified TF-IDF vectoriser ; Spectral clustering and its application to NLP ; Merging various types of word vector embeddings from fastText , Word2Vec , GloVe , TF-IDF and Bert for improved accuracy in unsupervised classification of text',
     ],
   },
 ];
