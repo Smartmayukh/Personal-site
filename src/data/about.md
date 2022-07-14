@@ -4,18 +4,6 @@
 Hello, I am Mayukhmali Das. I am currently in my final year pursuing my B.E. degree in Electronics and Telecommunications from Jadavpur Univerisity, Kolkata, India.
 
 
-# My hobbies
-
-- Guitar
-- Gym
-- Karate
-- Muay Thai
-- Boxing
-- MMA
-- Basketball
-- Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
-
-
 # How I developed my research interest
 
 I had a deep interest in Electronics while growing up. 
@@ -84,3 +72,33 @@ aviation industry
 - Designed a) a Radio Controlled Plane, b) all-terrain bot and c) a car with a Hydraulic arm for lifting weights for IIT
 Kharagpur. Did multiple personal projects using Arduino some of which are cataloged in my blogs at Hackster.io which has
 more than 10 thousand views
+
+
+
+# My hobbies
+
+- Guitar
+- Gym
+- Karate
+- Muay Thai
+- Boxing
+- MMA
+- Basketball
+- Podcasts (Joe Rogan, Daily Stoic, Lex Fridman)
+
+
+# Travel
+
+Travelling is one of my favourite stress relievers. A vacation of three four days is ideal for restarting the brain engine back again
+
+Here are some of my travel pics
+
+<p align="center">
+  <img alig src="https://user-images.githubusercontent.com/64318469/178912860-c367bfb5-9700-4d4e-8c65-450d160d6c30.jpg"  width="300"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/178913381-b4658804-1b46-4844-ad77-0483df3d801a.jpg" width="300" />
+    <img src="https://user-images.githubusercontent.com/64318469/178913464-c11709ef-d8fa-417d-92b3-28ca52294362.jpg" width="300" />
+</p>
+
+
+
+
