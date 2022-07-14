@@ -1,7 +1,6 @@
 const courses = [
   {
     title: 'ELECTROMAGNETIC THEORY',
-    number: 'ET/PC/B/T/211',
     link: 'http://www.jaduniv.edu.in/',
     university: 'Jadavpur',
   },
