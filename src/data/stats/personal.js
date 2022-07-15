@@ -25,6 +25,16 @@ const data = [
     value: <Age />,
   },
   {
+    key: 'karate',
+    label: 'Karate Belt I have',
+    value: 'Green',
+  },
+  {
+    key: 'gym',
+    label: 'Max Deadlift',
+    value: '85 kgs',
+  },
+  {
     key: 'countries',
     label: 'Countries visited',
     value: 2,
