@@ -21,19 +21,6 @@ const data = [
     link: 'https://github.com/smartmayukh/personal-site/network',
   },
   {
-    label: 'Number of spoons',
-    value: '0',
-  },
-  {
-    label: 'Number of linter warnings',
-    value: '0', // enforced via github workflow
-  },
-  {
-    label: 'Open github issues',
-    key: 'open_issues_count',
-    link: 'https://github.com/smartmayukh/personal-site/issues',
-  },
-  {
     label: 'Last updated at',
     key: 'pushed_at',
     link: 'https://github.com/smartmayukh/personal-site/commits',
