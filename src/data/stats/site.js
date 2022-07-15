@@ -11,11 +11,6 @@ const data = [
     link: 'https://github.com/smartmayukh/personal-site/stargazers',
   },
   {
-    label: 'Number of people watching this repository',
-    key: 'subscribers_count',
-    link: 'https://github.com/smartmayukh/personal-site/stargazers',
-  },
-  {
     label: 'Number of forks',
     key: 'forks',
     link: 'https://github.com/smartmayukh/personal-site/network',
