@@ -26,7 +26,7 @@ const data = [
   },
   {
     key: 'karate',
-    label: 'Karate Belt,
+    label: 'Karate Belt',
     value: 'Green',
   },
   {
