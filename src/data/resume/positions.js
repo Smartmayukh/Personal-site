@@ -79,5 +79,41 @@ const positions = [
       'Topics of research include Sentiment Analysis in Regional Languages and Aspect analysis. Worked with various transformer models like Bert , XLNet and their modifications . Current research papers are mainly focused on new and modified TF-IDF vectoriser ; Spectral clustering and its application to NLP ; Merging various types of word vector embeddings from fastText , Word2Vec , GloVe , TF-IDF and Bert for improved accuracy in unsupervised classification of text',
     ],
   },
+  {
+    company: 'Quantum Computing India',
+    position: 'Volunteer',
+    link: 'https://quantumcomputingindia.com/',
+    daterange: 'March 2021 - Present',
+    points: [
+      'Working as a member of Publication Committee in Quantum Computing India https://quantumcomputingindia.com/',
+    ],
+  },
+  {
+    company: 'IEEE JU Student Branch ',
+    position: 'Volunteer',
+    link: 'https://ieee-jaduniv.in/team.html',
+    daterange: 'September 2020 - Present',
+    points: [
+      'Volunteering in technical committee of IEEE Jadavpur University Student Branch',
+    ],
+  },
+  {
+    company: 'Placewit',
+    position: 'Community Influencer',
+    link: 'https://quantumcomputingindia.com/',
+    daterange: 'September 2021 - Present',
+    points: [
+      'Working as a Placewit Community Influencer in Placewit',
+    ],
+  },
+  {
+    company: 'Indian Space Research Organization',
+    position: 'Trainee at the Indian Space Research Organization',
+    link: 'https://quantumcomputingindia.com/',
+    daterange: 'August 2020 - November 2020',
+    points: [
+      'Topic of training was ” Basics of Remote Sensing Geographical Information System and Global Navigation Satellite System ”',
+    ],
+  },
 ];
 export default positions;
