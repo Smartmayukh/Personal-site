@@ -24,6 +24,22 @@ I also started to study about optimization in my second year. One of my papers o
 
 At the moment, I feel more enthusiastic working in an interdisciplinary fashion. I feel that I can achieve my true potential when both of my skill sets in the two domains of Electronics, Artificial Intelligence and Optimization constructively superimpose and amplify each other. As time goes on there is more and more incorporation of Artificial Intelligence in our everyday tech devices and thereby having a major impact on our lives. So it will be a great achievement for me if I am able to contribute to this new  ever growing field of technology. 
 
+
+# Some of my Publications:
+                   
+- [Monocular Depth Estimation](https://ieeexplore.ieee.org/abstract/document/9376365)
+- [Reinforced Swarm Optimization Algorithm](https://ieeexplore.ieee.org/document/9535639)
+- [Moving Object Detection for Event-based Vision using k-means Clustering](https://ieeexplore.ieee.org/abstract/document/9667636)
+- [Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals](https://arxiv.org/abs/2203.00418)
+
+# Some of my Articles:
+                   
+- [Cellular Automata and Verilog](https://sites.google.com/view/cellular-automata-mayukhmali/home)
+- [Lemmings Game using Verilog](https://sites.google.com/view/lemmings-verilog-mayukhmali/home)
+- [Simple Handwash Timer](https://www.hackster.io/Mayukhmali_Das/simple-handwash-timer-952c81)
+- [Covid 19 related projects](https://www.hackster.io/Mayukhmali_Das/covid-19-prevention-and-detection-ultimate-solution-160b87)
+
+
 # Some of my Achievements and activities
 
 - State Rank 16th with the percentage of 96.4 in Class 10 and State Rank 6th with the percentage of 98 in Class 12
