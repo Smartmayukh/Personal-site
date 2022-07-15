@@ -11,9 +11,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Mayukhmali Das Portfolio</Link></h2>
-            <p>
-            A react based website written with modern Javascript.
-           </p>
+          <p>
+            An elegant react based website written with modern Javascript.
+          </p>
         </div>
       </header>
       <p> Hello !! Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
