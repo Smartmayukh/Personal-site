@@ -88,5 +88,32 @@ Travelling the open world is what gives me the most amount of joy. A vacation is
 
 
 
+# My favourite books
+
+- Fantasy 
+    - The Witcher series by Andrzej Sapkowski
+    - The Harry Potter series by J.K.Rowling
+    - All Dan Brown novels
+    - LOTR and Hobbit by J.R.R Tolkien
+    - Bioshock rapture by John Shirley
+    - Mass effect book series
+    - Halo book series
+- Philosophy and Politics
+    - My Life by Fidel Castro
+    - Twelve years a slave by Solomon Northup
+    - The Republic by Plato
+    - The Politics by Aristotle
+    - Meditations by Marcus Aurelius
+    - The Art of War by Sun Tzu
+    - Letters from a Stoic by Seneca
+    - Ikigai by Hector Garcia
+- Self-help and Motivation
+    - Atomic Habits by James Clear
+    - Attitude is everything by Jeff Keller
+    - As a man thinketh by James Allen
+    - The 10X rule by Grant Cardone
+
+
+
 
 
