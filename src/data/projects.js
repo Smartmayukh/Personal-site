@@ -21,7 +21,7 @@ const data = [
     image: '/images/projects/project3.JPG',
     date: '2021-12-15',
     desc:
-    'In this paper we use k-Means clustering for detecting moving objects in event-based data',
+    'Event-based cameras are bio-inspired cameras that work by mimicking the working of the human eye. In this paper we use k-Means clustering for detecting moving objects in event-based data',
   },
   {
     title: 'Monocular Depth Estimation (2021 UPCON)',
