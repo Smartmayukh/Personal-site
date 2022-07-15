@@ -26,13 +26,18 @@ const data = [
   },
   {
     key: 'karate',
-    label: 'Karate Belt I have',
+    label: 'Karate Belt,
     value: 'Green',
   },
   {
     key: 'gym',
     label: 'Max Deadlift',
     value: '85 kgs',
+  },
+  {
+    key: 'gym',
+    label: 'Max Benchpress',
+    value: '35 kgs',
   },
   {
     key: 'countries',
