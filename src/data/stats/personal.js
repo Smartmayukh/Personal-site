@@ -36,8 +36,8 @@ const data = [
   },
   {
     key: 'gym',
-    label: 'Max Benchpress',
-    value: '35 kgs',
+    label: 'Max Leg Press',
+    value: '175 kgs',
   },
   {
     key: 'countries',
