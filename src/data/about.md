@@ -36,6 +36,7 @@ At the moment, I feel more enthusiastic working in an interdisciplinary fashion.
                    
 - [Cellular Automata and Verilog](https://sites.google.com/view/cellular-automata-mayukhmali/home)
 - [Lemmings Game using Verilog](https://sites.google.com/view/lemmings-verilog-mayukhmali/home)
+- [Serial Communication using Verilog](https://sites.google.com/view/serial-comm-verilog-mayukhmali/home)
 - [Simple Handwash Timer](https://www.hackster.io/Mayukhmali_Das/simple-handwash-timer-952c81)
 - [Covid 19 related projects](https://www.hackster.io/Mayukhmali_Das/covid-19-prevention-and-detection-ultimate-solution-160b87)
 
