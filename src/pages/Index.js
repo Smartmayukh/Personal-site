@@ -16,16 +16,18 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Hello !! Welcome to my website.
+      <p> Hello !!!  Welcome to my website.
+      </p>
+      <p>
         Please feel free to read more <Link to="/about">about me</Link>. In this page you can
         learn about how I developed my interest in AI and Electronics.
-        Also you will find here some of my articles and publications, my hobbies ⛹️‍♂️,
+        Also you will find here some of my articles and publications , my hobbies ⛹️‍♂️,
         my travelling pictures 📷 and last but not the least some of my favourite books 📚.
       </p>
       <p>
         You can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
-        and <Link to="/projects">projects</Link>. {' '}
+        and my<Link to="/projects">projects</Link>. {' '}
       </p>
       <p>
         You can also view <Link to="/stats">site statistics</Link>, {' '}
