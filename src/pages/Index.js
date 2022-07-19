@@ -31,7 +31,7 @@ const Index = () => (
       </p>
       <p>
         You can also view <Link to="/stats">site statistics</Link>, {' '}
-        Here you will find my statistics (for eg Which karate belt 🥋 do I have
+        Here you will find my statistics (for e.g. Which karate belt 🥋 do I have
         or a google map of all the places I have visited😀)
       </p>
       <p>
