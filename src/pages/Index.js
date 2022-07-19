@@ -17,19 +17,19 @@ const Index = () => (
         </div>
       </header>
       <p> Hello !! Welcome to my website.
-        Please feel free to read more <Link to="/about">about me</Link>. Here you can
-        learn about how I developed interest in AI and Electronics.
-        Also you will find in this page, my articles and publications, my hobbies,
-        my travelling pictures and last but not the least some of my favourite books.
+        Please feel free to read more <Link to="/about">about me</Link>. In this page you can
+        learn about how I developed my interest in AI and Electronics.
+        Also you will find here some of my articles and publications, my hobbies ⛹️‍♂️,
+        my travelling pictures 📷 and last but not the least some of my favourite books 📚.
       </p>
       <p>
         You can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
+        and <Link to="/projects">projects</Link>. {' '}
       </p>
       <p>
         You can also view <Link to="/stats">site statistics</Link>, {' '}
-        Here you will find my statistics (for eg Which karate belt do I have
+        Here you will find my statistics (for eg Which karate belt 🥋 do I have
         or a google map of all the places I have visited😀)
       </p>
       <p>
