@@ -18,7 +18,7 @@ const Index = () => (
       </header>
       <p> Hello !! Welcome to my website.
         Please feel free to read more <Link to="/about">about me</Link>
-        Here you can learn about how I developed interest in AI and Electronics. 
+        Here you can learn about how I developed interest in AI and Electronics.
         Also you will find in this page, my articles and publications, my hobbies,
         my travelling pictures and last but not the least some of my favourite books.
       </p>
@@ -27,8 +27,8 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">statistics</Link>, {' '}
-        Here you will find my statistics (for eg Which karate belt do I have 
-        or a google map of all the places I have visited😀) 
+        Here you will find my statistics (for eg Which karate belt do I have
+        or a google map of all the places I have visited😀)
       </p>
       <p>
         You can also <Link to="/contact">contact</Link> me.
