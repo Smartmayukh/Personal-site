@@ -33,7 +33,8 @@ At the moment, I feel more enthusiastic working in an interdisciplinary fashion.
 - [Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals](https://arxiv.org/abs/2203.00418)
 
 # Some of my Articles:
-                   
+
+- [Advanced HDL](https://sites.google.com/view/advanced-hdl-mayukhmali-das/home)                
 - [Cellular Automata and Verilog](https://sites.google.com/view/cellular-automata-mayukhmali/home)
 - [Lemmings Game using Verilog](https://sites.google.com/view/lemmings-verilog-mayukhmali/home)
 - [Serial Communication using Verilog](https://sites.google.com/view/serial-comm-verilog-mayukhmali/home)
