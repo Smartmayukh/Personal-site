@@ -1,5 +1,5 @@
 const positions = [
-    {
+  {
     company: 'RF Energy Harvesting and RF Circuit Design',
     position: 'DSP Lab, Jadavpur University',
     link: 'http://www.jaduniv.edu.in/',
