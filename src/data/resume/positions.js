@@ -1,15 +1,5 @@
 const positions = [
-  {
-    company: 'VLSI and Neurocomputing ',
-    position: 'SMDP Lab, Jadavpur University',
-    link: 'http://www.jaduniv.edu.in/',
-    daterange: 'April 2021 - Present',
-    points: [
-      'Currently designing Hardware Neural Networks using Digital, Analog, or FPGA based circuit design with research-scholar Swarup Dandapat and under the supervision of Professor Sayan Chatterjee FPGA related work is mainly done using Xilinx Vivado ML and Artix 7 FPGA ( Basys 3 Board)',
-      'I have experience in Memristor based Design. Designed Vector Matrix Mulipliers using Memristor Crossbars. Working on deploying NN in Memristor crossbar arrays using Xilinx Spartan-6 FPGA',
-    ],
-  },
-  {
+    {
     company: 'RF Energy Harvesting and RF Circuit Design',
     position: 'DSP Lab, Jadavpur University',
     link: 'http://www.jaduniv.edu.in/',
@@ -17,7 +7,27 @@ const positions = [
     points: [
       'Working on RF Energy Harvesting under the supervision of Professor Sudipta Chattopadhyay and guidance of Chandrima Thakur',
       'Worked on various relaying protocols like TSR, PSR. Current works involve designing a modified state-of-the-art Solar-RF Harvesting System; application of relaying protocols and Solar-RF Energy harvesting on UAVs , sensors etc and using SBSP ( Space-Based Solar Power ) for RF Energy Harvesting',
-      'Working on designing Low Noise Amplifiers and high speed ADC in Cadence',
+      'Currently designing Low Noise Amplifiers and 10 Bit Low Power 1-GSPs SAR-ADC using 45nm technology in Cadence',
+    ],
+  },
+  {
+    company: 'Neurocomputing and Harware Security',
+    position: 'SMDP Lab, Jadavpur University',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'April 2021 - Present',
+    points: [
+      'Currently designing Hardware Neural Networks using Digital, Analog, and FPGA based circuit design with research scholar Swarup Dandapat and under the supervision of Professor Sayan Chatterjee. FPGA related work is mainly done using Xilinx XC7A100T. I also have experience in Memristor crossbar array based designs like Vector Matrix Mulipliers',
+      'I have also done research work in implementation of Hardware trojan in FPGA based designs. One of my papers entitled as ”Logic and Reduction Operation based Hardware Trojans in Digital Design” is currently under review in ISOCC 2022',
+    ],
+  },
+  {
+    company: 'Embedded System',
+    position: 'Texas Instruments Lab, Jadavpur University',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'May 2021 - Present',
+    points: [
+      'Working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
+      'This research project mainly focuses on designing a autonomous boat that can do underwater mapping using a Lidar.',
     ],
   },
   {
@@ -26,47 +36,47 @@ const positions = [
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2021 - Present',
     points: [
-      'Working on designing communication systems like OFDM using FPGA based design under Professor Iti Saha Misra',
+      'Working on implementation of complete communication system models with modulation techniques such as OFDM in FPGA. This work is a part of my final year project under the supervision of Professor Iti Saha Misra',
+      'Future plans of this project include using neural networks for OFDM channel estimation and improving Bit Error Rate',
     ],
   },
-  {
-    company: 'Embedded System and Sensor Networks',
-    position: 'Texas Instruments Lab, Jadavpur University',
-    link: 'http://www.jaduniv.edu.in/',
-    daterange: 'December 2021 - Present',
-    points: [
-      'Working on Lidar-based research under the supervision of Dr. P. Venkateswaran',
-      'This research project mainly focuses on designing a customized RC boat that can do underwater mapping using a Lidar',
-      'Working on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran',
-    ],
-  },
+
   {
     company: 'Electromagnetic Energy Harvesting',
     position: 'Advanced Technology Development Centre, IIT Kharagpur',
     link: 'http://iitkgp.ac.in/',
     daterange: 'June 2022 - Present',
     points: [
-      'Working on Electromagnetic Energy Harvesting in vehicles',
+      'This is my summer internship under the supervision of Banibrata Mukherjee.In this project I am working on Electromagnetic Energy Harvesting in vehicles where I am designing both the harvester as well as the associated circuits which include sub circuits like Synchronized Switch Harvesting on Inductor, Boost Converter with feedforward and feedback. Also working on application of MPPT algorithm on Electromagnetic Energy Harvesting.',
     ],
   },
   {
-    company: 'Computational Biology and Deep Learning',
+    company: 'Computational Biology',
     position: 'Carnegie Mellon University, Pittsburgh, United States',
     link: 'https://www.cmu.edu/',
     daterange: 'March 2021 - Present',
     points: [
       'Worked in XU Lab under Professor Min Xu . The topic which I worked on was COVID-19 Cryo-ET data analysis',
-      'Worked on tasks like PDB to MRC file conversion using EMAN2 and AITom. Compared the results of such files. I have also worked on template matching. Trained semi-supervised and supervised models on the data',
+      'Worked on tasks like PDB to MRC file conversion using EMAN2 and AITom. Compared the results of such files. Also identified the sub-tomograms using DoG particle picking. I have also worked on template matching. Performed saliency detection on the Cryo-ET tomograms using PUB-SalNet. Trained various semi-supervised and supervised models.',
     ],
   },
   {
-    company: 'Computer Vision and Artificial Intelligence',
+    company: 'Computer Vision',
     position: 'CMATER Lab',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'September 2020 - Present',
+    points: [
+      'Worked on Monocular Depth Estimation. One paper regarding this topic is already published.',
+      'Worked on detection of moving object in event-based vision using graph-based methods. Corresponding paper has been published',
+    ],
+  },
+  {
+    company: 'Anomaly Detection',
+    position: 'Texas Instruments Lab',
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2020 - Present',
     points: [
-      'Worked on Monocular Depth Estimation',
-      'Worked on detection of moving object in event-based vision using graph-based methods',
+      'Worked on Anomaly Detection in Wireless Sensor Networks under Dr. P. Venkateswaran. Our paper entitled ”Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals” got selected for publication in EUSIPCO 2022',
     ],
   },
   {
