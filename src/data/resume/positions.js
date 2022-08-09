@@ -54,7 +54,7 @@ const positions = [
     company: 'Computational Biology',
     position: 'Carnegie Mellon University, Pittsburgh, United States',
     link: 'https://www.cmu.edu/',
-    daterange: 'March 2021 - Present',
+    daterange: 'March 2021 - July 2021',
     points: [
       'Worked in XU Lab under Professor Min Xu . The topic which I worked on was COVID-19 Cryo-ET data analysis',
       'Worked on tasks like PDB to MRC file conversion using EMAN2 and AITom. Compared the results of such files. Also identified the sub-tomograms using DoG particle picking. I have also worked on template matching. Performed saliency detection on the Cryo-ET tomograms using PUB-SalNet. Trained various semi-supervised and supervised models.',
@@ -83,7 +83,7 @@ const positions = [
     company: 'Natural Language Processing',
     position: 'Alpha Lab',
     link: 'http://www.jaduniv.edu.in/',
-    daterange: 'December 2020 - Present',
+    daterange: 'December 2020 - May 2021',
     points: [
       'Working on Natural Language Processing under the supervision of Dr. Sudip Kumar Naskar',
       'Topics of research include Sentiment Analysis in Regional Languages and Aspect analysis. Worked with various transformer models like Bert , XLNet and their modifications . Current research papers are mainly focused on new and modified TF-IDF vectoriser ; Spectral clustering and its application to NLP ; Merging various types of word vector embeddings from fastText , Word2Vec , GloVe , TF-IDF and Bert for improved accuracy in unsupervised classification of text',
