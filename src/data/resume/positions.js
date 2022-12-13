@@ -99,7 +99,7 @@ const positions = [
     link: 'https://quantumcomputingindia.com/',
     daterange: 'August 2020 - November 2020',
     points: [
-      'Topic of training was ” Basics of Remote Sensing Geographical Information System and Global Navigation Satellite System ”',
+      'Topic of training was ” Basics of Remote Sensing Geographical Information System and Global Navigation Satellite System ” ',
     ],
   },
 ];
