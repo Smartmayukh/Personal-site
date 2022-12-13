@@ -34,7 +34,7 @@ const positions = [
     link: 'http://iitkgp.ac.in/',
     daterange: 'June 2022 - September 2022',
     points: [
-      'This is my summer internship under the supervision of Banibrata Mukherjee.In this project I worked on Electromagnetic Energy Harvesting in vehicles where I designed both the harvester as well as the associated circuits which include sub circuits like Synchronized Switch Harvesting on Inductor, Boost Converter with feedforward and feedback. Also worked on application of MPPT algorithm on Electromagnetic Energy Harvesting.',
+      'This is my summer internship project under the supervision of Banibrata Mukherjee.In this project I worked on Electromagnetic Energy Harvesting in vehicles where I designed both the harvester as well as the associated circuits which include sub circuits like Synchronized Switch Harvesting on Inductor, Boost Converter with feedforward and feedback. Also worked on application of MPPT algorithm on Electromagnetic Energy Harvesting.',
     ],
   },
   {
