@@ -28,7 +28,6 @@ const positions = [
       'Working on implementation of complete communication system models with modulation techniques such as OFDM. This work is a part of my final year project under the supervision of Professor Iti Saha Misra',
     ],
   },
-
   {
     company: 'Electromagnetic Energy Harvesting',
     position: 'Advanced Technology Development Centre, IIT Kharagpur',
