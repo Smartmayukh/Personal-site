@@ -1,5 +1,5 @@
 const positions = [
-   {
+  {
     company: 'Wireless Communication',
     position: 'Communication Lab, Jadavpur University',
     link: 'http://www.jaduniv.edu.in/',
