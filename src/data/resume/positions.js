@@ -1,4 +1,13 @@
 const positions = [
+   {
+    company: 'Wireless Communication',
+    position: 'Communication Lab, Jadavpur University',
+    link: 'http://www.jaduniv.edu.in/',
+    daterange: 'December 2021 - Present',
+    points: [
+      'Working on implementation of complete communication system models with modulation techniques such as OFDM. This work is a part of my final year project under the supervision of Professor Iti Saha Misra',
+    ],
+  },
   {
     company: 'RF Energy Harvesting and RF Circuit Design',
     position: 'DSP Lab, Jadavpur University',
@@ -17,15 +26,6 @@ const positions = [
     daterange: 'April 2021 - November 2022',
     points: [
       'I have done research work in implementation of Hardware trojan in FPGA based designs. One of my papers entitled as ”Logic and Reduction Operation based Hardware Trojans in Digital Design” has benn published in ISOCC 2022',
-    ],
-  },
-  {
-    company: 'Wireless Communication',
-    position: 'Communication Lab, Jadavpur University',
-    link: 'http://www.jaduniv.edu.in/',
-    daterange: 'December 2021 - Present',
-    points: [
-      'Working on implementation of complete communication system models with modulation techniques such as OFDM. This work is a part of my final year project under the supervision of Professor Iti Saha Misra',
     ],
   },
   {
