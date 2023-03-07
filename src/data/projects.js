@@ -32,7 +32,7 @@ const data = [
     'In this paper, we propose a simple encoder-decoder based network that can predict high-quality depth images from single RGB images using transfer learning',
   },
   {
-    title: 'Monocular Depth Estimation (2022 ISOCC)',
+    title: 'Logic and Reduction Operation based Hardware Trojans in Digital Design (2022 ISOCC)',
     subtitle: 'ISOCC',
     image: '/images/projects/project4.JPG',
     date: '2022-10-19',
