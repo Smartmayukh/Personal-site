@@ -100,14 +100,14 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223426330-9ca723bb-afe3-49b6-a0a7-a1a52a384ae8.jpg" height="300" width="450"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223426417-7c1799e4-1226-48c6-941c-c5d4b925a802.jpg" height="300" width="450" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223426330-9ca723bb-afe3-49b6-a0a7-a1a52a384ae8.jpg" height="270" width="400"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223426417-7c1799e4-1226-48c6-941c-c5d4b925a802.jpg" height="270" width="400" />
 </p>
 
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223433470-d19f9a58-58dd-4ead-bd9c-5617c1ce97b9.jpg" height="300" width="450"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223433796-1b7c9937-f32c-48d6-8128-ac576bf43055.jpg" height="300" width="450" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223433470-d19f9a58-58dd-4ead-bd9c-5617c1ce97b9.jpg" height="270" width="400"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223433796-1b7c9937-f32c-48d6-8128-ac576bf43055.jpg" height="270" width="400" />
 </p>
 
 
