@@ -90,8 +90,8 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 # Jadavpur University Techfest Srijan 2019
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223425487-ea0a51e7-bcc0-4fdf-a9f6-89149a4162cf.jpg" height="270" width="350"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223425457-67b7b38a-0617-49bc-b544-4b7403bb1213.jpg" height="270" width="400" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223425487-ea0a51e7-bcc0-4fdf-a9f6-89149a4162cf.jpg" height="270" width="360"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223425457-67b7b38a-0617-49bc-b544-4b7403bb1213.jpg" height="270" width="410" />
 </p>
 
 
