@@ -72,7 +72,7 @@ more than 10 thousand views
 I have attended numerous techfests and conferences in my college days. A glimpse can be seen below.
 
 
-## DRDO Chandipur Exhibition 2023
+#DRDO Chandipur Exhibition 2023
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/223418037-62f90fe3-57e7-42a7-8392-032e9bfa9832.jpg" height="300" width="300"/>  
@@ -83,8 +83,8 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 ## IIT Kharagpur Techfest Kshitij 2019
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223424222-bf14d76d-8ee1-4662-86f9-1ae2c75f39e5.jpg" height="300" width="400"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223415699-92d656fb-db8b-4fe6-a20d-23ee8e656fa3.jpg" height="300" width="500" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223424222-bf14d76d-8ee1-4662-86f9-1ae2c75f39e5.jpg" height="290" width="320"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223415699-92d656fb-db8b-4fe6-a20d-23ee8e656fa3.jpg" height="290" width="470" />
 </p>
 
 
