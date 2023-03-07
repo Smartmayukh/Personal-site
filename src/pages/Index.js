@@ -21,7 +21,8 @@ const Index = () => (
       <p>
         Please feel free to read more <Link to="/about">about me</Link>. You can
         learn about how I developed my interest in AI and Electronics.
-        Also you will find my articles and publications, some of my achivements and last but not the least; pictures 📷 of my exhibitions and techfests.
+        Also you will find my articles and publications, some of my achivements and 
+        last but not the least; pictures 📷 of my exhibitions and techfests.
       </p>
       <p>
         You can check out my {' '}
