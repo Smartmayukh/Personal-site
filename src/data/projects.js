@@ -18,7 +18,7 @@ const data = [
   {
     title: 'Moving Object Detection for Event-based Vision (2022 UPCON)',
     subtitle: 'UPCON',
-    image: '/images/projects/project3.JPG',
+    image: '/images/projects/project3.jpg',
     date: '2021-12-15',
     desc:
     'Event-based cameras are bio-inspired cameras that work by mimicking the working of the human eye. In this paper we use k-Means clustering for detecting moving objects in event-based data',
