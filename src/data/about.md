@@ -75,8 +75,8 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 ## DRDO Chandipur Exhibition 2023
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223418037-62f90fe3-57e7-42a7-8392-032e9bfa9832.jpg" height="350" width="350"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223418006-8242e581-95aa-4b8e-a87f-fbe5cdca3d90.JPG" height="350" width="550" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223418037-62f90fe3-57e7-42a7-8392-032e9bfa9832.jpg" height="250" width="250"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223418006-8242e581-95aa-4b8e-a87f-fbe5cdca3d90.JPG" height="250" width="450" />
 </p>
 
 
