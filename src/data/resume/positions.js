@@ -5,7 +5,7 @@ const positions = [
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'December 2021 - Present',
     points: [
-      'Working on implementation of complete communication system models with modulation techniques such as OFDM. This work is a part of my final year project under the supervision of Professor Iti Saha Misra',
+      'Working on implementation of complete communication system models with modulation techniques such as OFDM. This work is a part of my final year project under the supervision of Professor Iti Saha Misra. I am currently exploring OFDM jamming and the application of deep learning methodologies for the classification of different types of OFDM jamming.',
     ],
   },
   {
@@ -16,16 +16,15 @@ const positions = [
     points: [
       'Worked on RF Energy Harvesting under the supervision of Professor Sudipta Chattopadhyay and guidance of Chandrima Thakur',
       'Worked on various relaying protocols like TSR, PSR. Current works involve designing a modified state-of-the-art Solar-RF Harvesting System; application of relaying protocols and Solar-RF Energy harvesting on UAVs , sensors etc and using SBSP ( Space-Based Solar Power ) for RF Energy Harvesting',
-      'Currently designing Low Noise Amplifiers and 10 Bit Low Power 1-GSPs SAR-ADC using 45nm technology in Cadence',
     ],
   },
   {
-    company: 'Neurocomputing and Harware Security',
+    company: 'Harware Security',
     position: 'SMDP Lab, Jadavpur University',
     link: 'http://www.jaduniv.edu.in/',
     daterange: 'April 2021 - November 2022',
     points: [
-      'I have done research work in implementation of Hardware trojan in FPGA based designs. One of my papers entitled as ”Logic and Reduction Operation based Hardware Trojans in Digital Design” has benn published in ISOCC 2022',
+      'I have done research work in implementation of Hardware trojan in FPGA based designs. One of my papers entitled as ”Logic and Reduction Operation based Hardware Trojans in Digital Design” has been published in ISOCC 2022',
     ],
   },
   {
