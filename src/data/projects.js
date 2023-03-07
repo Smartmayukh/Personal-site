@@ -26,7 +26,7 @@ const data = [
   {
     title: 'Monocular Depth Estimation (2021 UPCON)',
     subtitle: 'UPCON',
-    image: '/images/projects/project4.JPG',
+    image: '/images/projects/project5.JPG',
     date: '2021-03-15',
     desc:
     'In this paper, we propose a simple encoder-decoder based network that can predict high-quality depth images from single RGB images using transfer learning',
