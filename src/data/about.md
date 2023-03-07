@@ -72,15 +72,13 @@ more than 10 thousand views
 I have attended numerous techfests and conferences in my college days. A glimpse can be seen below.
 
 
-#DRDO Chandipur Exhibition 2023
+# DRDO Chandipur Exhibition 2023
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/223418037-62f90fe3-57e7-42a7-8392-032e9bfa9832.jpg" height="300" width="300"/>  
   <img src="https://user-images.githubusercontent.com/64318469/223418006-8242e581-95aa-4b8e-a87f-fbe5cdca3d90.JPG" height="300" width="500" />
 </p>
-
-
-## IIT Kharagpur Techfest Kshitij 2019
+# IIT Kharagpur Techfest Kshitij 2019
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/223424222-bf14d76d-8ee1-4662-86f9-1ae2c75f39e5.jpg" height="290" width="320"/>  
@@ -88,15 +86,15 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 </p>
 
 
-## Jadavpur University Techfest Srijan 2019
+# Jadavpur University Techfest Srijan 2019
 
 <p align="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/223425487-ea0a51e7-bcc0-4fdf-a9f6-89149a4162cf.jpg" height="290" width="350"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/223425457-67b7b38a-0617-49bc-b544-4b7403bb1213.jpg" height="290" width="440" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/223425487-ea0a51e7-bcc0-4fdf-a9f6-89149a4162cf.jpg" height="200" width="220"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/223425457-67b7b38a-0617-49bc-b544-4b7403bb1213.jpg" height="200" width="350" />
 </p>
 
 
-## Jadavpur University Electrical Department Techfest Convolution 2019
+# Jadavpur University Electrical Department Techfest Convolution 2019
 
 
 <p align="center">
