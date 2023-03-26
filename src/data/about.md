@@ -81,6 +81,14 @@ I have attended numerous techfests and conferences in my college days. A glimpse
   <img src="https://user-images.githubusercontent.com/64318469/223418006-8242e581-95aa-4b8e-a87f-fbe5cdca3d90.JPG" height="300" width="500" />
 </p>
 
+# Jadavpur University Electrical Department Techfest Convolution 2023
+
+
+<p align="center">
+  <img alig src="https://user-images.githubusercontent.com/64318469/227753439-27db8b75-772e-4e7c-b20c-c960b6c5409b.jpg" height="270" width="395"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/227753547-29cf0c8e-3655-49e7-8da8-2721101820b9.jpg" height="270" width="395" />
+</p>
+
 # IIT Kharagpur Techfest Kshitij 2019
 
 <p align="center">
