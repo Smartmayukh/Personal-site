@@ -89,7 +89,7 @@ I have attended numerous techfests and conferences in my college days. A glimpse
   <img src="https://user-images.githubusercontent.com/64318469/227753547-29cf0c8e-3655-49e7-8da8-2721101820b9.jpg" height="270" width="395" />
 </p>
 
-# IIT Kharagpur Techfest Kshitij 2019
+# IIT Kharagpur Techfest Kshitij 2020
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/223424222-bf14d76d-8ee1-4662-86f9-1ae2c75f39e5.jpg" height="290" width="320"/>  
@@ -97,7 +97,7 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 </p>
 
 
-# Jadavpur University Techfest Srijan 2019
+# Jadavpur University Techfest Srijan 2020
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/223425487-ea0a51e7-bcc0-4fdf-a9f6-89149a4162cf.jpg" height="270" width="360"/>  
@@ -105,7 +105,7 @@ I have attended numerous techfests and conferences in my college days. A glimpse
 </p>
 
 
-# Jadavpur University Electrical Department Techfest Convolution 2019
+# Jadavpur University Electrical Department Techfest Convolution 2020
 
 
 <p align="center">
